@@ -36,7 +36,7 @@ Inclusion in the Browser
 ### Bower
 
 ```html
-<script src="bower_components/ortc-adapter/ortc-adapter.min.js"></script>
+<script src="bower_components/ortc-adapter/dist/ortc-adapter.min.js"></script>
 ```
 
 ### NPM
